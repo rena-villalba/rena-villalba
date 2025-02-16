@@ -40,5 +40,5 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Projects
-- Home Lab
+- <a href="https://github.com/rena-villalba/Detection-Lab">Detection Lab</a>
 - SOAR-EDR Automated Response Lab
