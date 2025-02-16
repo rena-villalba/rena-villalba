@@ -13,7 +13,7 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Automated Threat Containment & Endpoint Isolation|     SOAR-EDR Project                   |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/rena-villalba/Detection-Lab">Detection Lab</a>|
 
 ## Tools
 
