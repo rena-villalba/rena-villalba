@@ -14,6 +14,7 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 |-----------------------------------------------|----------------------------|
 | Automated Threat Containment & Endpoint Isolation|  <a href="https://github.com/rena-villalba/SOAR-EDR">SOAR-EDR Automated Response Lab</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rena-villalba/Detection-Lab">Detection Lab</a>|
+| Phishing Simulation Proficiency               | <a href="">Phishing Lab</a>|
 
 ## Tools
 
@@ -42,3 +43,4 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 ## Projects
 - <a href="https://github.com/rena-villalba/SOAR-EDR">SOAR-EDR Automated Response Lab</a>
 - <a href="https://github.com/rena-villalba/Detection-Lab">Detection Lab</a>
+- <a href="">Phishing Lab</a>
