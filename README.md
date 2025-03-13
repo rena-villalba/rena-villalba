@@ -1,5 +1,7 @@
 ## Hello, I'm Renato Villalba
 
+<a href="https://www.linkedin.com/in/renato-villalba-360064330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF0hr8WSrT2%2BFgGN7UMeEJA%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 I have a profound interest in Cybersecurity, mostly in how data is protected across the internet. My passion for this field drives me to continuously learn and explore the latest technologies and best practices to ensure secure and resilient systems.
 
 ## Objective
