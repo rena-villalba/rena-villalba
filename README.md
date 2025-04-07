@@ -23,8 +23,14 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-0078D4?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
+### Directory Services
+<div>
+    <img src="https://img.shields.io/badge/-Active%20Directory-0062AD?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+    
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-LimaCharlie-4B275F?&style=for-the-badge&logo=cloud&logoColor=white" />
