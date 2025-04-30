@@ -15,7 +15,7 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 | Automated Threat Containment & Endpoint Isolation|  <a href="https://github.com/rena-villalba/SOAR-EDR">SOAR-EDR Automated Response Lab</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rena-villalba/Detection-Lab">Detection Lab</a>|
 | Phishing Simulation Proficiency               | <a href="https://github.com/rena-villalba/Phishing-Lab">Phishing Simulation Lab</a>|
-| DMZ Network                                   | <a href="https://github.com/rena-villalba/DMZ-Network">DMZ Network Lab</a>|
+| Firewall Configuration and Network Segmentation     | <a href="https://github.com/rena-villalba/DMZ-Network">DMZ Network Lab</a>|
 
 ## Tools
 
