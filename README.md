@@ -17,6 +17,7 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 | Phishing Simulation Proficiency               | <a href="https://github.com/rena-villalba/Phishing-Lab">Phishing Simulation Lab</a>|
 | Firewall Configuration and Network Segmentation     | <a href="https://github.com/rena-villalba/DMZ-Network">DMZ Network Lab</a>|
 | Network Attack Simulation & Intrusion Detection Engineering     | <a href="https://github.com/rena-villalba/DoS-Simulation-Lab">DoS Simulation Lab</a>|
+| Enterprise User Support & Access Management     | <a href="https://github.com/rena-villalba/Help-Desk-Simulator">Help Desk Simulator</a>|
 
 
 ## Tools
@@ -55,3 +56,4 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 - <a href="https://github.com/rena-villalba/Phishing-Lab">Phishing Simulation Lab</a>
 - <a href="https://github.com/rena-villalba/DMZ-Network">DMZ Network Lab</a>
 - <a href="https://github.com/rena-villalba/DoS-Simulation-Lab">DoS Simulation Lab</a>
+- <a href="https://github.com/rena-villalba/Help-Desk-Simulator">Help Desk Simulator</a>
