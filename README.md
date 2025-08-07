@@ -33,6 +33,7 @@ My curiosity in the IT field has led me to develop a passion for cybersecurity, 
 ### Directory Services
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0062AD?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20AD-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure Active Directory" />
 </div>
     
 ### Endpoint
